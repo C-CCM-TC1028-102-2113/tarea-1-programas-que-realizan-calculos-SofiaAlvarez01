@@ -1,9 +1,8 @@
 def main():
     #escribe tu código abajo de esta línea
-    import math
-    m= float(input("Dame los minutos: "))
+    m=float(input("Dame los minutos: "))
     centimetros= m*5.7*6
-    centimentros= round(centimetros,1)
+    centimentros=round(centimetros,1)
     print("Centímentros recorridos: ",centimentros)
 
     pass
