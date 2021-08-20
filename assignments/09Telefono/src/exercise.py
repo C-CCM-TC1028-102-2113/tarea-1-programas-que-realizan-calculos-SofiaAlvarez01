@@ -9,7 +9,6 @@ def main():
     minut=minu*.80
     total=ment+megt+minut
     print("El costo mensual es:",total)
-
     #Leer los datos
     pass
 
